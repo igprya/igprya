@@ -1,7 +1,3 @@
-— I have just been thinking, and I have come to a very important decision. _These are the wrong sort of bees_.
+_“...well, this naturally follows from the finiteness of the speed of light and the infinitude of the human tomfoolery.”_
 
-— Are they?
-
-— Quite the wrong sort. So I should think they would make the wrong sort of honey, shouldn’t you?
-
-🍯
+— [@TSultanov](https://github.com/TSultanov), delving into intricacies of memory allocation in compiled languages
